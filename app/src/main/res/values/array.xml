@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="title">
+        <item> Tips 1 : Introduction</item>
+        <item> Tips 2 : Day and Nightmare 1</item>
+        <item> Tips 3 : Day and Nightmare 2</item>
+        <item> Tips 4 : Day and Nightmare 3</item>
+        <item> Tips 5 : Day and Nightmare 4</item>
+        <item> Tips 6 : Day and Nightmare 5</item>
+        <item> Tips 7 : Day and Nightmare 6</item>
+        <item> Tips 8 : Conclusion</item>
+    </string-array>
+
+    <string-array name="images_previews">
+        <item>@drawable/preview_a</item>
+        <item>@drawable/preview_b</item>
+        <item>@drawable/preview_c</item>
+        <item>@drawable/preview_d</item>
+        <item>@drawable/preview_e</item>
+        <item>@drawable/preview_f</item>
+        <item>@drawable/preview_g</item>
+        <item>@drawable/preview_h</item>
+
+    </string-array>
+
+
+</resources>
